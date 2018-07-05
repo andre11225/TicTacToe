@@ -1,6 +1,7 @@
 # TicTacToe
 Simple TicTacToe game made using Python and AppJar
 
+
 July 4th Update:
 Re-worked most of the code to incorporate GUI. AppJar was used due to its simplicity.
 Result of changes made:
@@ -8,6 +9,7 @@ Result of changes made:
  - Added widget for tracking players score
  - Added ability to reset game board
  - 2 colors used, blue and pink, to show player turn
+
 
 
 July 5th Update:
