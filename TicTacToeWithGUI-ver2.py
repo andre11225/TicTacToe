@@ -1135,7 +1135,7 @@ def reset():
                 app.setButton(sec[i], sec[i])
                 app.enableButton(sec[i])
                 app.setLabel("f1", "Player 1 turn")
-                app.setLabelBg("s1", "pink")
+                app.setLabelBg("f1", "pink")
 
 
 def reset2():
